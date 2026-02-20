@@ -1,0 +1,4 @@
+C:\Users\manha.cetafest\source\repos\ConsoleApp2\projetobanco\projetobanco\obj\Release\net9.0\projetobanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\source\repos\ConsoleApp2\projetobanco\projetobanco\obj\Release\net9.0\projetobanco.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\source\repos\ConsoleApp2\projetobanco\projetobanco\obj\Release\net9.0\projetobanco.AssemblyInfo.cs
+C:\Users\manha.cetafest\source\repos\ConsoleApp2\projetobanco\projetobanco\obj\Release\net9.0\projetobanco.csproj.CoreCompileInputs.cache
